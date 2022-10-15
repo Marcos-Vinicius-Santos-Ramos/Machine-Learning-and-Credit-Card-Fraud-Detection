@@ -1,6 +1,9 @@
 # Datasets folder
 datasets/
 
+# Virtual environment
+cc_fraud_venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
