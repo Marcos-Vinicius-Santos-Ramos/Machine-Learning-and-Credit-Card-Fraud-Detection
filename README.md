@@ -6,8 +6,4 @@
 
 ## Propósito
 
-Este projeto tem como propósito o meu aprendizado sobre comportamentos fraudulentos e a demonstração das minhas habilidades com treinamento de modelos de classificação utilizando aprendizagem de máquina supervisionado até o momento. 
-
-### Objetivo
-
-Aprender sobre comportamentos fraudulentos e criar um modelo de aprendizagem de máquina capaz de classificar corretamente transações de cartões de crédito fraudulentas.
+Este projeto tem como objetivo o meu aprendizado sobre comportamentos fraudulentos e a criação de um modelo de aprendizado de máquina capaz de classificar corretamente transações de cartões de crédito fraudulentas.
