@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Credit Card Fraud Detector (WIP)</h1>
+<h1 style="text-align: center;">Credit Card Fraud Detector</h1>
 
 **Notebook**: [Credit Card Fraud Detector](https://github.com/Marcos-Vinicius-Santos-Ramos/Machine-Learning-and-Credit-Card-Fraud-Detection/blob/main/Detec%C3%A7%C3%A3o_de_fraude_de_cart%C3%A3o_de_cr%C3%A9dito_com_machine_learning.ipynb)
 
